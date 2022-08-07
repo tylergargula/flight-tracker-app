@@ -13,4 +13,4 @@ The flight tracker app requests airport, destination, and baseline ticket price 
 "Low price alert!<br>
 Only $192 to fly from Chicago-ORD<br> to New York-NYC, from 2022-09-07<br>to 2022-09-25."
 
-![Google flights phone preview](iphone_google_flights_preview.png)
+<img alt="Google flights phone preview" src="iphone_google_flights_preview.png" width="50%"/>
